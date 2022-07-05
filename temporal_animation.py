@@ -7,7 +7,6 @@ Created on Mon Apr 25 11:21:53 2022
 
 import os,sys
 import numpy as np
-import os,sys
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg # image module for image reading
 import glob
