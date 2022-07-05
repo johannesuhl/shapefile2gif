@@ -52,7 +52,6 @@ for year in years:
 currfiles=[] 
 for file in os.listdir(img_dir):
     currfiles.append(img_dir+os.sep+file)
-#currfiles=currfiles[:10]
 frames = [Image.open(image) for image in currfiles] #.crop((2,2,Image.open(image).size[0]-2,Image.open(image).size[1]-2))
 years= [x.split('_')[-1].replace('.png','') for x in currfiles]
 
