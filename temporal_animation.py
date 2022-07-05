@@ -9,7 +9,6 @@ import os,sys
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg # image module for image reading
-import glob
 from PIL import Image    
 from PIL import ImageDraw
 from PIL import ImageFont 
