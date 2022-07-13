@@ -63,8 +63,8 @@ for f in frames: #[:10]
     year=years[counter]
     #### add text
     I1 = ImageDraw.Draw(f)         
-    myFont = ImageFont.truetype('arial.ttf', 100)         
-    I1.text((width/2,618), year, font=myFont,fill =(255,255,255),anchor='mm')  
+    #myFont = ImageFont.truetype('arial.ttf', 100)         
+    #I1.text((width/2,618), year, font=myFont,fill =(255,255,255),anchor='mm')  
     myFont = ImageFont.truetype('arial.ttf', 25) 
     I1.text((width/2,35), 'Building evolution in Boulder, Colorado, USA (1900-2015)', font=myFont,fill =(0, 0, 0),anchor='mm')        
     myFont = ImageFont.truetype('arial.ttf', 18) 
