@@ -1,0 +1,15 @@
+README
+
+The data contained in this sample shapefile is part of the "MTBF-33: A multi-temporal building footprint dataset for 
+33 counties in the United States (1900 – 2015)" dataset, which can be used under the CC BY 4.0 licence.
+
+Data citation:
+Uhl, Johannes H; Leyk, Stefan (2022), “MTBF-33: A multi-temporal building footprint dataset for 33 U.S. counties 
+at annual resolution (1900-2015)”, Mendeley Data, V2, doi: 10.17632/w33vbvjtdy.2
+
+Data download:
+https://data.mendeley.com/datasets/w33vbvjtdy
+
+Data descriptor (available at https://www.sciencedirect.com/science/article/pii/S2352340922005662):
+Uhl, Johannes H; Leyk, Stefan (2022), "MTBF-33: A multi-temporal building footprint dataset for 
+33 counties in the United States (1900 – 2015)", Data in Brief 43, 108369, DOI: https://doi.org/10.1016/j.dib.2022.108369
